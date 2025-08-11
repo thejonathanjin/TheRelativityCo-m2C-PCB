@@ -63,6 +63,8 @@ A major thanks to:
 
 ... for initiating this project!
 
+A big THANK YOU to Dr. David Parent.
+
 ## License
 
 Creative Commons
