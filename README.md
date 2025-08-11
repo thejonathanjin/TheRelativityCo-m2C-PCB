@@ -42,10 +42,10 @@ Please make sure to update tests as appropriate.
 
 A major thanks to:
 
--- Boran "Brian" Peng, Automotive Master Technician
--- Shavinda De Silva, Communication Networks, SIM & GPS
--- Joseph Nico Tankeh, Embedded Systems, Arduino & C++
--- Jonathan Tuan Tran, Android & (iOS TBD)
+- Boran "Brian" Peng, Automotive Master Technician
+- Shavinda De Silva, Communication Networks, SIM & GPS
+- Joseph Nico Tankeh, Embedded Systems, Arduino & C++
+- Jonathan Tuan Tran, Android & (iOS TBD)
 
 ... for initiating this project!
 
