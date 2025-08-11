@@ -28,14 +28,14 @@ Tree:
 ```python
 ```
 
-!(dch_schematic.png)
+<img width="1552" height="987" alt="dch_schematic" src="https://github.com/user-attachments/assets/0fdc38cd-a35b-41cf-9f1d-4232757dc456" />
 
 *.dip
 
 ```python
 ```
 
-!(dip_pcb_layout.png)
+<img width="1552" height="987" alt="dip_pcb_layout" src="https://github.com/user-attachments/assets/7fae6954-07bd-4e86-b397-3386b44d917a" />
 
 ## Contributing
 
