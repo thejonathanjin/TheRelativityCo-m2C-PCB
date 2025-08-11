@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "m2C_2014_capstone_car_project")(type "KiCad")(uri "$(KIPRJMOD)/m2C_2014_capstone_car_project.pretty")(options "")(descr ""))
+)
