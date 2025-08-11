@@ -28,14 +28,14 @@ Tree:
 ```python
 ```
 
-(dch_schematic.png)
+!(dch_schematic.png)
 
 *.dip
 
 ```python
 ```
 
-(dip_pcb_layout.png)
+!(dip_pcb_layout.png)
 
 ## Contributing
 
