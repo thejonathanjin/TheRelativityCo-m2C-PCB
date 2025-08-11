@@ -1,4 +1,4 @@
-# m2C: Mobile to Car Communication Module w/ AndroidOS
+# m2C: Mobile to Car Communication Module w/ AndroidOS (iOS TBD)
 
 m2C is a capstone project among 4 students from San Jose State University.
 
