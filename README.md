@@ -40,6 +40,13 @@ Tree:
 
 <img width="1552" height="987" alt="dip_pcb_layout" src="https://github.com/user-attachments/assets/7fae6954-07bd-4e86-b397-3386b44d917a" />
 
+
+KiCAD PCB project from converted DipTrace PCB Layout:
+
+
+<img width="2560" height="1440" alt="Screenshot from 2025-08-10 22-25-32" src="https://github.com/user-attachments/assets/771deb0d-81e7-4c3e-b2dc-dfbc5c2ca357" />
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
